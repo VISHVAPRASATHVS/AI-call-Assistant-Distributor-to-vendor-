@@ -1,0 +1,7 @@
+streamlit>=1.33.0
+fastapi
+uvicorn
+python-dotenv
+pydantic
+plotly>=5.18.0
+pandas>=2.0.0

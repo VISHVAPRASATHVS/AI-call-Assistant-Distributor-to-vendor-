@@ -1,0 +1,181 @@
+{
+  "pricing": [
+    {
+      "solution": "Share Comprehensive Pricing Tier Explainer Document (PDF + Video)",
+      "description": "A full 20-page guide covering all pricing tiers, volume discounts, margin structures and bundling options.",
+      "keywords": ["price", "pricing", "tier", "cost", "discount", "margin", "unclear", "confused"],
+      "resources": ["Pricing Tier PDF", "Margin Calculator", "Price Comparison Video"],
+      "estimated_time": "2 hours"
+    },
+    {
+      "solution": "Grant Instant Access to Real-Time Partner Pricing Portal",
+      "description": "Live web portal with up-to-date pricing, seasonal discounts, and custom quote generator.",
+      "keywords": ["access", "portal", "real-time", "update", "live", "dashboard"],
+      "resources": ["Partner Portal", "IT Setup Guide"],
+      "estimated_time": "1 hour"
+    },
+    {
+      "solution": "Schedule 1:1 Pricing Strategy Call with Finance Director",
+      "description": "Dedicated negotiation call to explore custom pricing, volume agreements, and Q4 incentives.",
+      "keywords": ["call", "negotiation", "custom", "quote", "q4", "incentive"],
+      "resources": ["Finance Team", "Pricing Calendar"],
+      "estimated_time": "24 hours"
+    }
+  ],
+  "onboarding": [
+    {
+      "solution": "Deliver Complete Digital Sales Rep Onboarding Pack",
+      "description": "Full onboarding package: product guides, FAQs, sales scripts, roleplay videos, and certification path.",
+      "keywords": ["onboard", "new rep", "training", "kit", "guide", "start", "joining"],
+      "resources": ["Onboarding Pack", "Video Library", "LMS Access"],
+      "estimated_time": "1 hour"
+    },
+    {
+      "solution": "Register Team for 3-Day Hands-On Product Bootcamp",
+      "description": "Intensive bootcamp with product experts covering all product lines, demos, and sales techniques.",
+      "keywords": ["bootcamp", "workshop", "training", "hands-on", "product"],
+      "resources": ["Bootcamp Registration Link", "Schedule PDF"],
+      "estimated_time": "48 hours"
+    },
+    {
+      "solution": "Assign Dedicated Partner Success Manager (PSM)",
+      "description": "A PSM will own your onboarding journey with weekly check-ins, resources, and milestone tracking.",
+      "keywords": ["support", "help", "guidance", "dedicated", "manager"],
+      "resources": ["Partner Success Team"],
+      "estimated_time": "24 hours"
+    }
+  ],
+  "technical": [
+    {
+      "solution": "Deliver Full Technical Documentation & API Reference Kit",
+      "description": "Complete tech docs: API specs, Postman collections, integration guides, error codes, and troubleshooting FAQs.",
+      "keywords": ["documentation", "docs", "api", "spec", "technical", "manual", "reference"],
+      "resources": ["Technical Docs Portal", "API Reference", "Error Code Guide"],
+      "estimated_time": "1 hour"
+    },
+    {
+      "solution": "Provision Dedicated Sandbox/Test Environment",
+      "description": "Isolated environment mirroring production for safe integration testing — no risk to live data.",
+      "keywords": ["test", "sandbox", "environment", "integration", "dev", "staging"],
+      "resources": ["DevOps Team", "Sandbox Credentials"],
+      "estimated_time": "4 hours"
+    },
+    {
+      "solution": "Schedule Live Technical Troubleshooting Session with Solutions Engineer",
+      "description": "Screenshare session with certified engineer to diagnose errors, test integrations and resolve blockers.",
+      "keywords": ["bug", "error", "crash", "fix", "503", "debugging", "workshop"],
+      "resources": ["Solutions Engineer", "Remote Support Tool"],
+      "estimated_time": "24 hours"
+    }
+  ],
+  "support": [
+    {
+      "solution": "Open Priority-1 Support Ticket with 4-Hour SLA Guarantee",
+      "description": "P1 ticket created immediately — dedicated engineer owns this with regular status updates until resolved.",
+      "keywords": ["urgent", "critical", "asap", "immediately", "blocking", "down"],
+      "resources": ["Support Portal", "P1 SLA Document"],
+      "estimated_time": "4 hours"
+    },
+    {
+      "solution": "Initiate Live Remote Troubleshooting Session (Screen Share)",
+      "description": "Immediate screenshare session with a senior support engineer to diagnose and fix the issue live.",
+      "keywords": ["help", "fix", "broken", "problem", "trouble", "resolve"],
+      "resources": ["Remote Support Tool", "Support Team"],
+      "estimated_time": "1 hour"
+    },
+    {
+      "solution": "Activate 24/7 Emergency Support Hotline with Dedicated Line",
+      "description": "Direct emergency contact line for critical issues outside business hours — guaranteed response in 30 minutes.",
+      "keywords": ["24/7", "emergency", "after hours", "weekend", "night"],
+      "resources": ["Emergency Hotline Number"],
+      "estimated_time": "Immediate"
+    }
+  ],
+  "logistics": [
+    {
+      "solution": "Expedite Shipment to Priority Fulfillment Queue — Next-Day Dispatch",
+      "description": "Order elevated to priority queue with next-day warehouse dispatch and real-time tracking enabled.",
+      "keywords": ["delivery", "shipping", "shipment", "delay", "slow", "late", "order"],
+      "resources": ["Logistics Manager", "Warehouse Team", "Tracking Portal"],
+      "estimated_time": "24 hours"
+    },
+    {
+      "solution": "Grant Real-Time Inventory Dashboard Access with Stock Alerts",
+      "description": "Live inventory portal with stock levels, reorder thresholds, ETA forecasts, and low-stock SMS alerts.",
+      "keywords": ["stock", "inventory", "level", "out of stock", "available", "supply"],
+      "resources": ["Inventory Portal", "SMS Alert Setup"],
+      "estimated_time": "2 hours"
+    },
+    {
+      "solution": "Assign Dedicated Logistics Coordinator as Single Point of Contact",
+      "description": "Named coordinator handles all logistics queries, shipment updates, and disruption alerts proactively.",
+      "keywords": ["coordinate", "update", "track", "status", "contact"],
+      "resources": ["Operations Team"],
+      "estimated_time": "48 hours"
+    }
+  ],
+  "compliance": [
+    {
+      "solution": "Deliver Full Compliance & Certification Documentation Bundle",
+      "description": "Complete pack: ISO 27001 cert, GDPR compliance statement, SOC-2 report, audit logs, and policies.",
+      "keywords": ["compliance", "certification", "audit", "legal", "iso", "gdpr", "soc"],
+      "resources": ["Legal Team", "Compliance Portal"],
+      "estimated_time": "24 hours"
+    },
+    {
+      "solution": "Schedule Dedicated Compliance Review Meeting with Legal Officers",
+      "description": "Structured session with compliance and legal teams to walk through requirements and answer questions.",
+      "keywords": ["review", "regulation", "policy", "meeting", "legal"],
+      "resources": ["Legal Team", "Compliance Officer"],
+      "estimated_time": "48 hours"
+    }
+  ],
+  "enablement": [
+    {
+      "solution": "Send Complete Partner Enablement Kit (Slides + Videos + Scripts)",
+      "description": "Full sales enablement pack: product decks, demo videos, objection handling scripts, and case studies.",
+      "keywords": ["enablement", "material", "collateral", "kit", "video", "slides", "demo"],
+      "resources": ["Enablement Manager", "Content Library"],
+      "estimated_time": "2 hours"
+    },
+    {
+      "solution": "Enrol in 3-Month Structured Partner Enablement Program",
+      "description": "Comprehensive program: product mastery, sales certifications, and coaching from senior advisors.",
+      "keywords": ["program", "certification", "training", "structured"],
+      "resources": ["Enablement Program Portal"],
+      "estimated_time": "72 hours"
+    }
+  ],
+  "partnership": [
+    {
+      "solution": "Schedule Quarterly Business Review (QBR) with Executive Sponsors",
+      "description": "Executive-level review: performance data, market insights, co-selling opportunities, and growth roadmap.",
+      "keywords": ["growth", "goal", "target", "quarter", "review", "qbr", "executive"],
+      "resources": ["Account Manager", "Business Development", "Executive Sponsor"],
+      "estimated_time": "7 days"
+    },
+    {
+      "solution": "Deliver Market Expansion Opportunity Analysis Report",
+      "description": "AI-generated report identifying top revenue opportunities, competitor gaps, and expansion strategies.",
+      "keywords": ["opportunity", "expand", "business", "revenue", "market", "analysis"],
+      "resources": ["Business Intelligence Team"],
+      "estimated_time": "5 days"
+    }
+  ],
+  "general": [
+    {
+      "solution": "Route to Dedicated Account Manager for Personalised Handling",
+      "description": "Identified as unique query — senior account manager assigned for direct, personalised resolution.",
+      "keywords": [],
+      "resources": ["Account Management Team"],
+      "estimated_time": "4 hours"
+    },
+    {
+      "solution": "Create and Track Case in CRM with Full SLA Monitoring",
+      "description": "Full case management: CRM ticket created, SLA clock started, stakeholders notified automatically.",
+      "keywords": [],
+      "resources": ["CRM System", "SLA Dashboard"],
+      "estimated_time": "1 hour"
+    }
+  ]
+}

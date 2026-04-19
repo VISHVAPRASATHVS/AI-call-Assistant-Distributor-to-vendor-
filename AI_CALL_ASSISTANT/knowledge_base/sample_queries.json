@@ -1,0 +1,50 @@
+[
+  {
+    "distributor_name": "TechNova Solutions",
+    "query_text": "Our new sales reps are struggling badly with onboarding. The process is completely unclear and they do not have access to proper training materials or documentation. We need help urgently before Q4 begins."
+  },
+  {
+    "distributor_name": "GlobalLink Distributors",
+    "query_text": "The pricing tiers are extremely confusing and our team keeps asking the same questions about discounts and margins. We cannot close deals without clarity on this. Customers are going to our competitors."
+  },
+  {
+    "distributor_name": "SkyBridge Partners",
+    "query_text": "Technical documentation for the new product line is completely missing. We cannot proceed with customer integration without the API specs and error code reference. Engineers are blocked."
+  },
+  {
+    "distributor_name": "MaxReach Inc",
+    "query_text": "Our inventory levels are critically low and shipments have been delayed by over 3 weeks. This is causing us to lose major contracts worth millions. We need immediate escalation and action!"
+  },
+  {
+    "distributor_name": "TechNova Solutions",
+    "query_text": "Thank you for the fantastic support last quarter. We are very excited to keep growing this partnership. The team is looking forward to the upcoming bootcamp session and the new product line launch."
+  },
+  {
+    "distributor_name": "PrimeVend Corp",
+    "query_text": "We urgently need the compliance certification documents for our ISO audit scheduled for next week. Our legal team is also asking for the GDPR compliance statement and data processing agreements."
+  },
+  {
+    "distributor_name": "NextGen Distributors",
+    "query_text": "The support response time is completely unacceptable. We submitted a critical ticket 5 days ago and still have received absolutely no response. This is blocking our entire operations and costing us clients."
+  },
+  {
+    "distributor_name": "GlobalLink Distributors",
+    "query_text": "We are very interested in expanding our partnership. Can we schedule a business review to discuss Q4 targets, growth opportunities, and co-selling strategies in the Southeast Asia market?"
+  },
+  {
+    "distributor_name": "SkyBridge Partners",
+    "query_text": "The system integration keeps failing with error code 503. Our engineers cannot find any documentation about this error and the sandbox environment keeps crashing. We need immediate technical support."
+  },
+  {
+    "distributor_name": "MaxReach Inc",
+    "query_text": "We need much better sales enablement materials. Our team does not have up-to-date product presentations, demo videos, or objection handling scripts to share with potential customers."
+  },
+  {
+    "distributor_name": "ApexDist Ltd",
+    "query_text": "We are very happy with the partnership and appreciate your continued support. The onboarding bootcamp was excellent and the new product line is selling very well. Excited for the Q4 growth targets."
+  },
+  {
+    "distributor_name": "VentureLink Corp",
+    "query_text": "Our delivery schedules are completely unpredictable. The last 4 shipments arrived 2-3 weeks late with no communication or updates. We cannot run a business with such unreliable logistics support."
+  }
+]
